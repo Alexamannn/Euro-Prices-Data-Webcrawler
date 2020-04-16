@@ -1,7 +1,6 @@
 library(RSelenium)
 
-
-connect <- function(input, output,session) {driver <- rsDriver(browser=c("firefox"))
+driver <- rsDriver(browser=c("firefox"))
 remote_driver <- driver[["client"]] }
 
 crawl <- function(input, output,session) {
