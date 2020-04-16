@@ -1,5 +1,5 @@
 library(RSelenium)
-connect <- function(input, output,session) { library(RSelenium)
+
 
 driver <- rsDriver(browser=c("firefox"))
 remote_driver <- driver[["client"]] }
