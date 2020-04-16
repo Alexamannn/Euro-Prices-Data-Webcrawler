@@ -24,6 +24,8 @@ require(eurowebcrawler)
 <p> Mozilla Firefox </p>
 
 
+<h3> Total time to Crawl and Generate Data </h3>
+<p> 1 minute </p>
 
 <h2> Technologies </h2>
 
