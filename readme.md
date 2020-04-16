@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Sellenium Webcrawler -Euro Prices Data Downloader </h1>
-<p>This package downloads euro prices on the base price of USD from Banca Italian website and generates CSV file .Data starting from 01/01/2020 to present day.Mozilla Firefox is required to run the bot.
+<p>This package downloads euro prices on the base price of USD from Banca Italian website and generates CSV file .Data starting from 01/01/2020 to present day.
 <br>
   
 
@@ -24,8 +24,6 @@ require(eurowebcrawler)
 <p> Mozilla Firefox </p>
 
 
-<h3> Total time to Crawl and Generate Data </h3>
-<p> 1 minute </p>
 
 <h2> Technologies </h2>
 
