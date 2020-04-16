@@ -30,7 +30,7 @@ crawl()
 <h3> Software Requirements </h3>
 <p> Mozilla Firefox </p>
 
-<h3>Time to complete crawl and Gnerate Data </h3>
+<h3>Time to complete crawl and Generate Data </h3>
 <p> 1.05 minutes </p>
 
 <h2> Technologies </h2>
