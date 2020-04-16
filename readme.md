@@ -17,13 +17,21 @@ devtools::install_github('Alexamannn/Euro-Prices-Data-Webcrawler')
 
 ```R
 require(eurowebcrawler)
-```
 
+```
+<h2> Usage</h2>
+<p> Start the Crawl and generate data </p>
+
+```R
+crawl()
+
+```
 
 <h3> Software Requirements </h3>
 <p> Mozilla Firefox </p>
 
-
+<h3>Time to complete crawl and Gnerate Data </h3>
+<p> 1.05 minutes </p>
 
 <h2> Technologies </h2>
 
