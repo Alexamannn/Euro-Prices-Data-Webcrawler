@@ -30,11 +30,13 @@ crawl()
 <h3> Software Requirements </h3>
 <p> Mozilla Firefox </p>
 
-<h3> File Genrate Location</h3>
+<h3> File Generate Location</h3>
 <p> Csv file of data will be generated and stored in Download location folder of Mozilla Firefox.</p>
+
 
 <h3>Time to complete crawl and Generate Data </h3>
 <p> 1.05 minutes </p>
+
 
 <h2> Technologies </h2>
 
