@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587088291135.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6815C624",
+    "lastKnownWriteTime" : 1587088660,
+    "last_content_update" : 1587088660744,
+    "path" : "C:/Users/ADMIN/Desktop/covid19/New folder (2)/Euro-Prices-Data-Webcrawler/R/call.R",
+    "project_path" : "R/call.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

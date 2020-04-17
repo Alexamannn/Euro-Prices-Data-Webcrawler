@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1587076849910.000,
-    "dirty" : false,
+    "created" : 1587073371567.000,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "BCB650BE",
-    "lastKnownWriteTime" : 1587085840,
-    "last_content_update" : 1587085840848,
+    "id" : "130203A7",
+    "lastKnownWriteTime" : 1587086747,
+    "last_content_update" : 1587088502238,
     "path" : "C:/Users/ADMIN/Desktop/covid19/New folder (2)/Euro-Prices-Data-Webcrawler/R/server.R",
     "project_path" : "R/server.R",
     "properties" : {
-        "cursorPosition" : "33,12",
-        "scrollLine" : "15"
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 3,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"
