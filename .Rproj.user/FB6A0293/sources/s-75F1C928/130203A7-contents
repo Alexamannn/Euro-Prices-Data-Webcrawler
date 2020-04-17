@@ -43,6 +43,7 @@ search$clickElement()
 Sys.sleep(8)
 downloadcsv=remote_driver$findElement(using =  "xpath","/html/body/odin-app/ng-component/main/section/div/div[3]/div/button[3]")
 downloadcsv$clickElement()
+remDr$close()
 
 
 }

@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "D839D44F",
-    "lastKnownWriteTime" : 1587129531,
-    "last_content_update" : 1587129531595,
+    "lastKnownWriteTime" : 1587130145,
+    "last_content_update" : 1587130145165,
     "path" : "C:/Users/ADMIN/Desktop/covid19/New folder (3)/Euro-Prices-Data-Webcrawler/R/crawl.R",
     "project_path" : "R/crawl.R",
     "properties" : {
-        "cursorPosition" : "16,11",
-        "scrollLine" : "0",
+        "cursorPosition" : "53,0",
+        "scrollLine" : "37",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
