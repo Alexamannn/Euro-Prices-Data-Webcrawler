@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1587076849910.000,
+    "created" : 1587076293970.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "BCB650BE",
+    "id" : "A2B20EE",
     "lastKnownWriteTime" : 1587082179,
-    "last_content_update" : 1587082179569,
-    "path" : "D:/New folder/eurowebcrawler/R/server.R",
-    "project_path" : "R/server.R",
+    "last_content_update" : 1587082179424,
+    "path" : "C:/Users/ADMIN/Desktop/covid19/New folder (2)/Euro-Prices-Data-Webcrawler/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
     "properties" : {
-        "cursorPosition" : "48,0",
+        "cursorPosition" : "12,0",
         "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 3,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_source"
+    "type" : "dcf"
 }

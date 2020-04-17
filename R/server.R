@@ -3,10 +3,10 @@ library(RSelenium)
 driver <- rsDriver(browser=c("firefox"))
 remote_driver <- driver[["client"]]
 #remote_driver$open()
-
-crawl<- function (input,output,session) {
-
 remote_driver$navigate("https://tassidicambio.bancaditalia.it/timeSeries")
+crawl <- function (input,output,session)
+
+
 Sys.sleep(10)
 date <- remote_driver$findElement(using = "xpath",  "//*[@id='dailyTab-panel']/div/form/div[1]/div")
 date$clickElement()
@@ -45,5 +45,5 @@ Sys.sleep(8)
 downloadcsv=remote_driver$findElement(using =  "xpath","/html/body/odin-app/ng-component/main/section/div/div[3]/div/button[3]")
 downloadcsv$clickElement()
 
-}
+
 
