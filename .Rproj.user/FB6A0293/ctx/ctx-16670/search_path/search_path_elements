@@ -1,0 +1,13 @@
+.GlobalEnv
+package:eurowebcrawler
+devtools_shims
+package:RSelenium
+tools:rstudio
+package:stats
+package:graphics
+package:grDevices
+package:utils
+package:datasets
+package:methods
+Autoloads
+package:base

@@ -1,0 +1,11 @@
+Package: eurowebcrawler
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Alex Aman
+Maintainer: Alex Aman <amanismyname@gmail.com>
+Description: this webcrawler downloads the time series data of Euro prices starting from 1 jan 2020 to present day in order to check the effects of Covid19 over Euro currency.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:RSelenium,tidyverse
