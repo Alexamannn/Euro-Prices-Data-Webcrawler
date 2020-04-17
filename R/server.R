@@ -1,11 +1,10 @@
 library(RSelenium)
-crawl<- function(input,session)
+
 driver <- rsDriver(browser=c("firefox"))
 remote_driver <- driver[["client"]]
 #remote_driver$open()
 remote_driver$navigate("https://tassidicambio.bancaditalia.it/timeSeries")
 
-Sys.sleep(5)
 date <- remote_driver$findElement(using = "xpath",  "//*[@id='dailyTab-panel']/div/form/div[1]/div")
 date$clickElement()
 date1 <- remote_driver$findElement(using = "xpath","//*[@id='dailyTab-panel']/div/form/div[1]/div/div/input")
