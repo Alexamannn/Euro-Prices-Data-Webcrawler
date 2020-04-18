@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "557774266",
+    "hash" : "0",
     "id" : "BCB650BE",
     "lastKnownWriteTime" : 1587251115,
     "last_content_update" : 1587251115338,
     "path" : "C:/Users/ADMIN/Desktop/covid19/New folder (3)/Euro-Prices-Data-Webcrawler/R/server.R",
     "project_path" : "R/server.R",
     "properties" : {
-        "cursorPosition" : "6,26",
-        "scrollLine" : "1"
+        "cursorPosition" : "49,0",
+        "scrollLine" : "33"
     },
     "read_only" : false,
     "read_only_alternatives" : [
