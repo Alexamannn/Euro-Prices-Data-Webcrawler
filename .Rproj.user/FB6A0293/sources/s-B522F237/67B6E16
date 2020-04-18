@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1587122531032.000,
+    "created" : 1587245172636.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "4449A691",
-    "lastKnownWriteTime" : 1587245292,
-    "last_content_update" : 1587245292192,
-    "path" : "C:/Users/ADMIN/Desktop/covid19/New folder (3)/Euro-Prices-Data-Webcrawler/R/crawl.R",
-    "project_path" : "R/crawl.R",
+    "id" : "67B6E16",
+    "lastKnownWriteTime" : 1587245249,
+    "last_content_update" : 1587245249646,
+    "path" : "C:/Users/ADMIN/Desktop/covid19/New folder (3)/Euro-Prices-Data-Webcrawler/R/package.R",
+    "project_path" : "R/package.R",
     "properties" : {
-        "cursorPosition" : "14,0",
+        "cursorPosition" : "6,26",
         "scrollLine" : "0",
         "tempName" : "Untitled2"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 7,
+    "relative_order" : 6,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587122531032.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4245599009",
+    "id" : "4449A691",
+    "lastKnownWriteTime" : 1587247711,
+    "last_content_update" : 1587247711506,
+    "path" : "C:/Users/ADMIN/Desktop/covid19/New folder (3)/Euro-Prices-Data-Webcrawler/R/crawl.R",
+    "project_path" : "R/crawl.R",
+    "properties" : {
+        "cursorPosition" : "52,27",
+        "scrollLine" : "38",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
