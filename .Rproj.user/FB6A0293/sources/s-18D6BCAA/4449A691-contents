@@ -1,8 +1,8 @@
 #'Crawl
 #'
-#' @param data Reactive function brings back all the Comments with selected rating
+#' @param initiate crawling
 #'
-#' @return Brings back all the comments with selected rating
+#' @return Brings back CSV file for euro prices
 #' @export
 #'
 #' @examples

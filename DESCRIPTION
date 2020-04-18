@@ -8,5 +8,5 @@ Description: this webcrawler downloads the time series data of Euro prices start
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Imports: RSelenium,tidyverse
+Imports: RSelenium,httr
 RoxygenNote: 7.0.2

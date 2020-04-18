@@ -7,10 +7,10 @@
 crawl()
 }
 \arguments{
-\item{data}{Reactive function brings back all the Comments with selected rating}
+\item{initiate}{crawling}
 }
 \value{
-Brings back all the comments with selected rating
+Brings back CSV file for euro prices
 }
 \description{
 Crawl
