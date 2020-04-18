@@ -1,6 +1,6 @@
 library(RSelenium)
 crawl <- function(){
-driver <- rsDriver(browser=c("firefox"))
+driver <- RSelenium::rsDriver(browser=c("firefox"))
 remote_driver <- driver[["client"]]
 #remote_driver$open()
 remote_driver$navigate("https://tassidicambio.bancaditalia.it/timeSeries")
