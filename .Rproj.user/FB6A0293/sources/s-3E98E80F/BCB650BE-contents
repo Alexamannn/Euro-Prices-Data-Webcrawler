@@ -1,7 +1,8 @@
 library(RSelenium)
 crawl <- function(){
 driver <- RSelenium::rsDriver(browser=c("firefox"))
-sys.sleep(20)
+Sys.sleep(30)
+
 
 remote_driver <- driver[["client"]]
 remote_driver$open()
